@@ -1,1 +1,2 @@
-My text in file
+Some more changes
+Some other changes
